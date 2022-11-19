@@ -1,155 +1,144 @@
-/* * {
+* {
   margin: 0px;
   padding: 0px;
-} */
+}
 
 header {
   display: flex;
-  justify-items: center;
-  text-align: center;
   justify-content: space-between;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  width: 100%;
-  height: 80px;
-  color: #fff;
+  width: 96%;
+  position: absolute;
+  height: 65px;
+  padding: 25px;
   background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
 }
 
 .meme {
-  padding-top: 25px;
   position: absolute;
-  left: 3.73%;
-  top: 3.64%;
-  bottom: 91.96%;
-  width: 40px;
+  left: 65px;
+  right: 45px;
+  top: 35px;
+  bottom: 91.78%;
+  size: 5px;
 }
 
 .beside-icon {
-  padding-top: 3px;
+  position: absolute;
   width: 140.79px;
-  height: 20px;
-  padding-left: 78px;
-  font-family: 'Karla';
+  height: 24px;
+  left: 113px;
+  top: 52px;
+  font-family: 'Karla', sans-serif;
   font-style: normal;
-  font-weight: 650px;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 23px;
   line-height: 24px;
   letter-spacing: -0.1em;
+  color: #fff; 
 }
 
 .right-top {
-  width: 189px;
+  position: absolute;
+  width: 950px;
   height: 14px;
-  padding-right: 40px;
-  padding-top: 25px;
-  font-family: 'Inter';
+  left: 324px;
+  top: 50px;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
   line-height: 15px;
   text-align: right;
+  color: #fff;
 }
 
 .border-box {
-  width: 80%;
+  box-sizing: border-box;
+  position: absolute;
+  width: 230px;
+  height: 35px;
+  left: 46px;
 }
 
 .shut {
-  position: absolute;
-  padding-left: 37px;
-  padding-top: 10px;
-  font-family: 'Karla';
-  font-style: normal;
-  font-weight: 400px;
-  font-size: 18px;
-  line-height: 14px;
-  color: #0d0d0d;
   box-sizing: border-box;
-  width: 500px;
+  position: absolute;
+  width: 460px;
   height: 35px;
-  left: 150px;
-  top: 140px;
-  border: 1px solid #d5d4d8;
+  left: 135px;
+  top: 150px;
+  padding: 8px 22px;
+  border: 2px solid #d5d4d8;
   border-radius: 5px;
 }
 
 .money {
-  position: absolute;
-  padding-left: 34px;
-  padding-top: 10px;
-  font-family: 'Karla';
-  font-style: normal;
-  font-weight: 400px;
-  font-size: 18px;
-  line-height: 14px;
-  color: #0D0D0D;
   box-sizing: border-box;
-  width: 500px;
+  position: absolute;
+  width: 480px;
   height: 35px;
-  left: 700px;
-  top: 140px;
-  border: 1px solid #d5d4d8;
+  left: 640px;
+  top: 150px;
+  padding: 8px 22px;
+  border: 2px solid #d5d4d8;
   border-radius: 5px;
-}
-
-.meme-images {
-  position: relative;
-  left: 591px;
-  font-family: 'Karla';
-  font-style: normal;
-  font-weight: 700px;
-  font-size: 16px;
-  line-height: 19px;
-  text-align: center;
-  letter-spacing: -0.1em;
-  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
-  border-radius: 5px;
-  width: 78%;
-  height: 50px;
-  top: 225px;
 }
 
 .gallery {
-  padding-top: 15px;
+  position: absolute;
+  left: 391px;
+  top: 20px;
+}
+
+.meme-images {
+  padding: 10px;
+  position: absolute;
+  width: 970px;
+  height: 40px;
+  left: 180px;
+  top: 230px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  border-radius: 5px;
+}
+
+.meme-full-image {
+  position: absolute;
+  width: 477px;
+  height: 268px;
+  left: 180px;
+  top: 320px;
 }
 
 .get-some-money {
-  position: absolute;
-  width: 78%;
-  height: 450px;
-  left: 150px;
-  top: 327px;
-  padding-bottom: 50px;
+  width: 995px;
+  padding-bottom: 20px;
 }
 
 .shut-up {
   position: absolute;
   width: 106px;
   height: 39px;
-  left: 620px;
-  top: 365px;
-  font-family: 'Impact';
+  left: 450px;
+  top: 80px;
+  font-family: 'Impact', sans-serif;
   font-style: normal;
-  font-weight: 550px;
-  font-size: 30px;
-  line-height: 39px;
-  color:gold;
-  border: 2px solid #fff;
+  font-weight: 400px;
+  font-size: 32px;
+  line-height: 40px;
+  color: #fff;
+  border: 2px solid #000;
 }
 
 .and-take-my-money {
   position: absolute;
-  width: 255px;
-  height: 39px;
-  left: 510px;
-  top: 720px;
-  font-family: 'Impact';
+  width: 345px;
+  height: 45px;
+  left: 225px;
+  top: 460px;
+  font-family: 'Impact', sans-serif;
   font-style: normal;
-  font-weight: 550px;
-  font-size: 32px;
-  line-height: 39px;
-  text-align: center;
-  color: gold;
-  border: 2px solid #fff;
+  font-weight: 400px;
+  font-size: 42px;
+  color: lightpink;
+  border: 2px solid #000;
 }

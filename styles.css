@@ -1,7 +1,7 @@
-* {
+/* * {
   margin: 0px;
   padding: 0px;
-}
+} */
 
 header {
   display: flex;
@@ -28,13 +28,13 @@ header {
   height: 24px;
   left: 113px;
   top: 52px;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Karla',sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 700px;
   font-size: 23px;
   line-height: 24px;
   letter-spacing: -0.1em;
-  color: #fff; 
+  color: #fff;
 }
 
 .right-top {

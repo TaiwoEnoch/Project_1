@@ -32,7 +32,7 @@ header {
   padding-left: 78px;
   font-family: 'Karla';
   font-style: normal;
-  font-weight: 650;
+  font-weight: 650px;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: -0.1em;
@@ -63,7 +63,7 @@ header {
   padding-top: 10px;
   font-family: 'Karla';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400PX;
   font-size: 18px;
   line-height: 14px;
   color: #0D0D0D;
@@ -84,7 +84,7 @@ header {
   padding-top: 10px;
   font-family: 'Karla';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400px;
   font-size: 18px;
   line-height: 14px;
   color: #0D0D0D;
@@ -104,7 +104,7 @@ header {
   top: 261px;
   font-family: 'Karla';
   font-style: normal;
-  font-weight: 700;
+  font-weight: 700px;
   font-size: 16px;
   line-height: 19px;
   text-align: center;
@@ -139,7 +139,7 @@ header {
   top: 365px;
   font-family: 'Impact';
   font-style: normal;
-  font-weight: 550;
+  font-weight: 550px;
   font-size: 30px;
   line-height: 39px;
   color:gold;
@@ -154,7 +154,7 @@ header {
   top: 720px;
   font-family: 'Impact';
   font-style: normal;
-  font-weight: 550;
+  font-weight: 550px;
   font-size: 32px;
   line-height: 39px;
   text-align: center;

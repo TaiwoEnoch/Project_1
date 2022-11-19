@@ -12,7 +12,7 @@ header {
   padding-bottom: 15px;
   width: 100%;
   height: 80px;
-  color:#fff;
+  color: #fff;
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
 }
 
@@ -33,7 +33,7 @@ header {
   font-family: 'Karla';
   font-style: normal;
   font-weight: 650;
-  font-size: 20.7482px;
+  font-size: 20px;
   line-height: 24px;
   letter-spacing: -0.1em;
 }
